@@ -66,6 +66,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Anonymousagent47/Anonymousagent47/output/snake.svg" alt="Snake animation" />
-
 ###
